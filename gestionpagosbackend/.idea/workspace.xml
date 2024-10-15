@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76be922e-968d-4478-b02a-5a1c784a7294" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ProyectoRecursosHumanos/primerProyecto/primerProyecto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/ecommerce/model/Orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion-tareas/.idea/gestion-tareas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gestion-tareas/gestion-tareas/src/main/java/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion-de-pagos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion-de-pagos/.idea/Gestion-de-pagos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion-de-pagos/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion-de-pagos/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion-de-pagos/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion-de-pagos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gestion-de-pagos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../museo_app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursos-humanos-spring/.idea/recursos-humanos-spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursoshumanos - copia/.idea/recursoshumanos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema_tareas/.idea/sistema_tareas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sistema_tareas/sistema_tareas/src/main/java/sistema_tareas/Controlador/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gestion-de-pagos/gestion-de-pagos/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Gestion-de-pagos/gestion-de-pagos/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recursoshumanos/rh/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../recursoshumanos/rh/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recursoshumanosapp" beforeDir="false" afterPath="$PROJECT_DIR$/../recursoshumanosapp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Gestion-de-pagos" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2mtudLuPzP8Uk23ZRBfPjtykEpX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/IntelliJ IDEA/gestionpagosbackend"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76be922e-968d-4478-b02a-5a1c784a7294" name="Changes" comment="" />
+      <created>1727908279458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727908279458</updated>
+    </task>
+    <servers />
+  </component>
+</project>
